@@ -10,5 +10,17 @@ function my_name(){
 }
     */
 
+/*
 
-function
+function addTwoNumbers(number1,number2){
+    return number1 + number2
+}
+
+const result = addTwoNumbers(5,10)
+
+console.log("Result :", result);
+
+*/
+
+
+
