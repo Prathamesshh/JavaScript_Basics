@@ -27,3 +27,5 @@ console.log(add(2,3)); // 5
 2nd method 
 const add = (num1,num2) => num1 + num2;
 */
+
+// IF we dont use curly braces then we dont need to use return keyword as well.
